@@ -3,7 +3,9 @@ Guia estruturado que descreve as habilidades e competências necessárias para u
 
 Este roadmap inclui uma variedade de habilidades técnicas, metodologias e práticas recomendadas que são cruciais na área de engenharia de qualidade.
 
-<img src="./quality_engineering_skills_roadmap.png" alt="drawing" width="25%" />
+<img src="./quality_engineering_skills_roadmap.png" alt="drawing" width="35%" />
+
+*Imagem gerada por inteligência artificial DALL·E*
 
 
 # Quality Assurance Fundamentals
